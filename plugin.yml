@@ -1,0 +1,5 @@
+name: MyCMDs
+version: 1.0-BETA
+api: 4.0.0
+author: treehousemc
+main: MyCMDs/main
